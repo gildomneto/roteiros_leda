@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-02T17:00:26.781-0300</date>
+  <logger>TALITA GALDINO GOUVEIA</logger>
+  <level>FINE</level>
+  <message>File 118111778-TALITA GALDINO GOUVEIA.zip was received. It was sent by TALITA GALDINO GOUVEIA from IP 150.165.42.195 at 02-09-2019 17*00*26</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-02T17:01:40.166-0300</date>
+  <logger>TALITA GALDINO GOUVEIA</logger>
+  <level>FINE</level>
+  <message>File 118111778-TALITA GALDINO GOUVEIA.zip was received. It was sent by TALITA GALDINO GOUVEIA from IP 150.165.42.195 at 02-09-2019 17*01*40</message>
+</record>
